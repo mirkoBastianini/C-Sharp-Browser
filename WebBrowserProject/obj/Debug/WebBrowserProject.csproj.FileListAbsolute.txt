@@ -1,0 +1,9 @@
+c:\users\mirko\documents\visual studio 2015\Projects\WebBrowserProject\WebBrowserProject\bin\Debug\WebBrowserProject.exe.config
+c:\users\mirko\documents\visual studio 2015\Projects\WebBrowserProject\WebBrowserProject\bin\Debug\WebBrowserProject.exe
+c:\users\mirko\documents\visual studio 2015\Projects\WebBrowserProject\WebBrowserProject\bin\Debug\WebBrowserProject.pdb
+c:\users\mirko\documents\visual studio 2015\Projects\WebBrowserProject\WebBrowserProject\obj\Debug\WebBrowserProject.csprojResolveAssemblyReference.cache
+c:\users\mirko\documents\visual studio 2015\Projects\WebBrowserProject\WebBrowserProject\obj\Debug\WebBrowserProject.Form1.resources
+c:\users\mirko\documents\visual studio 2015\Projects\WebBrowserProject\WebBrowserProject\obj\Debug\WebBrowserProject.Properties.Resources.resources
+c:\users\mirko\documents\visual studio 2015\Projects\WebBrowserProject\WebBrowserProject\obj\Debug\WebBrowserProject.csproj.GenerateResource.Cache
+c:\users\mirko\documents\visual studio 2015\Projects\WebBrowserProject\WebBrowserProject\obj\Debug\WebBrowserProject.exe
+c:\users\mirko\documents\visual studio 2015\Projects\WebBrowserProject\WebBrowserProject\obj\Debug\WebBrowserProject.pdb
